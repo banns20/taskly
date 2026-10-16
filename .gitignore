@@ -1,0 +1,7 @@
+node_modules/
+public/app.bundle.js
+data/submissions/
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+npm-debug.log*
